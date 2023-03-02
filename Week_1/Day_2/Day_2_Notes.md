@@ -1,4 +1,4 @@
-## Notes From Day 2
+## Notes From Week 1 Day 2
 
 * `process.argv` is an array of command line arguments stored as strings
 * FOCAL = functions, objects, conditionals, arrays and loops
